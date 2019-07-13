@@ -9,7 +9,8 @@
         "object-literal-sort-keys": false,
         "no-shadow": ["error", { "builtinGlobals": false, "hoist": "functions", "allow": [] }],
         "no-console": [true, "warning"],
-        "no-empty": [false, "warning"]
+        "no-empty": [false, "warning"],
+        "variable-name": [false]
     },
     "rulesDirectory": []
 }

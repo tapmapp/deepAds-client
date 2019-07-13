@@ -10,16 +10,9 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tapmapp/deepAds-client.git"
-  },
   "author": "Francisco Roca",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tapmapp/deepAds-client/issues"
-  },
-  "homepage": "https://github.com/tapmapp/deepAds-client#readme",
+
   "dependencies": {
     "@types/node-fetch": "^2.3.7",
     "node-fetch": "^2.6.0",
